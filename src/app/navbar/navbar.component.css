@@ -1,0 +1,4 @@
+.router-link-active:not(.navbar-brand), 
+.router-link-active:hover:not(.navbar-brand) { 
+  background-color: darkgrey !Important;
+}
